@@ -1,3 +1,6 @@
+![Screenshot (203)](https://github.com/Ravindra230104/SlidelyAI_Frontend/assets/110477092/a2f61b75-4c00-4fed-9909-3963e97395aa)
+![Screenshot (202)](https://github.com/Ravindra230104/SlidelyAI_Frontend/assets/110477092/98003c72-8f64-4307-a470-bda2bce16845)
+![Screenshot (201)](https://github.com/Ravindra230104/SlidelyAI_Frontend/assets/110477092/1668b640-86da-494d-a693-a57419688257)
 # SlidelyAI_Frontend
 
 ---
